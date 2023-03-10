@@ -1,3 +1,5 @@
 TESTE DE BRANCH EXEMPLO
 Oiiii
+<<<<<<< HEAD
 SERRATEC
+
